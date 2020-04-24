@@ -1,3 +1,5 @@
 .DS_STORE
 */.ipynb_checkpoints/*
 */__pycache__/*
+default.profraw
+hw1_release/hw1_debug.py

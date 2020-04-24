@@ -40,7 +40,7 @@ Zip your completed assignments (pdf, ipynb, py) with a name like [cv-HW* submiss
 
 ## How to start?
 Before working on each homework, you need to setup a few things:
-Make sure to install Python (>= 3.5, I tried 3.8) on your local machine. 
+Make make sure to install version 3.5 or 3.6 on your local machine (3.7 is also ok, 3.8 not). 
 
 **Setting up a virtual environment via virtualenv:** we strongly recommend working using a single [virtual environment](http://docs.python-guide.org/en/latest/dev/virtualenvs/) for all homeworks. This will allow you to have a working environment with all the package dependencies within the repository of your homework, without messing up your work environment in other repositories.
 
@@ -58,7 +58,7 @@ To set up a virtual environment with name `.env`, run the following inside your 
 Note that every time you want to work on the assignment, you should run `source .env/bin/activate` (from within your assignment folder) to re-activate the virtual environment, and `deactivate` again whenever you are done.
 
 **Setting up a virtual environment via conda:** 
-I am more familar with conda. So I set up a virtual environment with the name `cvenv` via miniconda and install all the depedencies in the environment by "pip install -r requirements.txt".
+I am more familar with conda. So I set up a virtual environment with the name `cv` via miniconda (conda create -n cv python=3.7) and install all the depedencies in the environment by "pip install -r requirements.txt".
 
 **Working with [Jupyter notebooks](https://jupyter.org/):** in your assignment repository, start the notebook with the `jupyter notebook` command.
 
