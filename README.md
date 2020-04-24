@@ -64,6 +64,10 @@ I am more familar with conda. So I set up a virtual environment with the name `c
 
 When working with a Jupyter notebook, you can edit the *.py files either in the Jupyter interface (in your browser) or with your favorite editor (Visual Studio Code, ...). Whenever you save a *.py file, the notebook will reload their content directly.
 
+**Working with [Jupyter notebooks](https://code.visualstudio.com/docs/python/jupyter-support) using vscode.**
+
+It is better for debugging, such as viewing variables.
+
 How do you download the assignments?
 ------------------------------------
 
