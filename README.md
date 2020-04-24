@@ -66,7 +66,7 @@ When working with a Jupyter notebook, you can edit the *.py files either in the 
 
 **Working with [Jupyter notebooks](https://code.visualstudio.com/docs/python/jupyter-support) using vscode.**
 
-It is better for debugging, such as viewing variables.
+It is better for debugging, such as viewing variables in the notebook or stepping into a function in some other py file.
 
 How do you download the assignments?
 ------------------------------------
