@@ -35,8 +35,7 @@ hw*.pdf - Export the hw*.ipynb ipython notebook as a PDF. In order to export not
 
 hw*.ipynb, *.py - All the python files we ask you to code up must be submitted.
 
-Zip your completed assignments (pdf, ipynb, py) with a name like [cv-HW* submission], and email it to me so that we have a record of your work. 
-
+Zip your completed assignments (pdf, ipynb, py) with a name like [cv2020-HW?-group?-name1-name2-name3], and email it to me so that we have a record of your work. 
 
 ## How to start?
 Before working on each homework, you need to setup a few things:
